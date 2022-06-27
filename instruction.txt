@@ -1,0 +1,30 @@
+The BasketballPlayer class was created so that we can track different stats. It was designed to add players then add a game’s statistics and report out.
+
+Your task:
+
+    Create a basketball player
+
+         -ask the user for the name of the player and his team
+
+    Add at least 6 games for the player
+    Print out the player’s name, their statistics, and then print the object
+
+Sample Output - Actual Stats should be different:
+
+Enter Player's Name and Team:
+
+ Lebron James
+
+ Lakers
+
+
+Lebron James Stats:
+
+Points per game: 26.0
+
+Assists per game: 10.0
+
+Lebron James averages 26.0 points per game.
+
+
+Lebron Stats: https://www.espn.com/nba/player/_/id/1966/lebron-james
